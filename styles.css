@@ -1,0 +1,23 @@
+/*custom class for background image and padding*/
+.backgroundIMG{
+    background-image: url(sunshine.jpg);
+    padding-top: 2%;
+}
+.radios{
+    width: 30px;
+    height: 30px;
+    padding-top: 30px;
+    margin-top: 30px;
+}
+.btn{
+    margin: 30px;
+    width: 20%;
+    font-size: 40px;
+}
+.warn{
+    color: red;
+}
+.icon{
+    width: 300px;
+    height: 300px;
+}
